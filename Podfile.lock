@@ -1,0 +1,19 @@
+PODS:
+  - AFNetworking (1.2.1)
+  - EGYWebViewController (1.2)
+  - MBProgressHUD (0.8)
+  - ViewDeck (2.3.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 1.2.1)
+  - EGYWebViewController
+  - MBProgressHUD
+  - ViewDeck
+
+SPEC CHECKSUMS:
+  AFNetworking: a44069e3c9c89867544f6639482f155c7e5f9b41
+  EGYWebViewController: a270b742fe0b9bc97b594dcf8eee7b7a8e3473b1
+  MBProgressHUD: 2bbc6f470111daf7f3eaa4eb12b8cbf01c4c0622
+  ViewDeck: 2cdc67c4b41a10cafc7556b982f028409e33604d
+
+COCOAPODS: 0.31.1
